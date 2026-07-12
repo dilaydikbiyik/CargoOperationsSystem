@@ -231,3 +231,6 @@ dist/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Generated routing/geocoding cache (regenerated at runtime)
+backend/cache/
